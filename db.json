@@ -1,268 +1,34 @@
-  {
-    "data" : [{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/aston-martin-vulcan.jpg",
-        "manufacturer" : "Aston Martin Vulcan",
-        "model" : "Vulcan",
-        "price" : 2300000,
-        "quality" : [{ 
-            "name" : "Top Speed",
-            "definition" : "225 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "7.0L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 800
-        },{ 
-            "name" : "Year",
-            "definition" : 2016
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-        }],
-        "wiki" : "https://en.wikipedia.org/wiki/Aston_Martin_Vulcan"
-    },{ 
-        "img" : "https://pix-feed.com/wp-content/uploads/2019/08/4-10.jpg",
-        "manufacturer" : "BMW 8 series",
-        "model" : "M850i",
-        "price" : 112895,
-        "quality" : [{ 
-              "name" : "Top Speed",
-            "definition" : "159 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "5.59L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 523
-        },{ 
-            "name" : "Year",
-            "definition" : 2020
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-        }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/BMW_8_Series"
-    },{ 
-        "img" : "https://pix-feed.com/wp-content/uploads/2019/08/7-4.jpg",
-        "manufacturer" : "Lamborghini Sesto Elemento",
-        "model" : "Sesto Elemento",
-        "price" : 2950000,
-        "quality" : [ { 
-            "name" : "Top Speed",
-            "definition" : "217 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "5.70L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 570
-        },{ 
-            "name" : "Year",
-            "definition" : 2010
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-        }
-          
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Lamborghini_Sesto_Elemento"
-    },{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/alfa-romeo-giulia-quadrifoglio.jpg",
-        "manufacturer" : "Alfa Romeo Giulia Quadrifoglio",
-        "model" : "	Giulia",
-        "price" : 70000,
-        "quality" : [ { 
-           "name" : "Top Speed",
-            "definition" : "191 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "7.0L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 510
-        },{ 
-            "name" : "Year",
-            "definition" : 2016
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(952)"
-    },{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/ferrari-488-gtb.jpg",
-        "manufacturer" : "Ferrari 488 GTB",
-        "model" : 488,
-        "price" : 40000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "205 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "7.8L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 670
-        },{ 
-            "name" : "Year",
-            "definition" : 2021
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Ferrari_488"
-    }]
-},{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/scuderia-cameron-glickenhaus-scg003.jpg",
-        "manufacturer" : "Scuderia Cameron Glickenhaus SCG003",
-        "model" : " SCG003",
-        "price" : 2000000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "220 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "7.5L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 750
-        },{ 
-            "name" : "Year",
-            "definition" : 2017
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Scuderia_Cameron_Glickenhaus_SCG_003"
-    }]
-},{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/koenigsegg-regera.jpg",
-        "manufacturer" : "Koenigsegg Regera",
-        "model" : "Regera",
-        "price" : 1900000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "255 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "7.59L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 1590
-        },{ 
-            "name" : "Year",
-            "definition" : 2017
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Koenigsegg_Regera"
-    }]
-},{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/chevrolet-corvette-zr1.jpg",
-        "manufacturer" : "Chevrolet Corvette ZR1",
-        "model" : " ZR1",
-        "price" : 120000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "210 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "5.1L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 765
-        },{ 
-            "name" : "Year",
-            "definition" : 2019
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Chevrolet_Corvette_ZR-1"
-    }]
-},{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/aston-martin-ss100.jpg",
-        "manufacturer" : "Aston Martin СС100",
-        "model" : "СС100",
-        "price" : 770000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "180 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "5.0L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 517
-        },{ 
-            "name" : "Year",
-            "definition" : 2013
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Aston_Martin_CC100"
-    }]
-},{ 
-        "img" : "https://rating-avto.ru/wp-content/uploads/2019/08/porsche-911-gt3rs.jpg",
-        "manufacturer" : "Porsche 911 GT3RS",
-        "model" : "GT3RS",
-        "price" : 2200000,
-        "quality" : [{ 
-                "name" : "Top Speed",
-            "definition" : "194 mph",
-        },{ 
-            "name" : "Displacement",
-            "definition" : "5.85L",
-        },{ 
-            "name" : "Horsepower",
-            "definition" : 520
-        },{ 
-            "name" : "Year",
-            "definition" : 2019
-        },{ 
-            "name" : "Body style",
-            "definition" : "couple"
-        },{ 
-            "name" : "Car segment",
-            "definition" : "supercar"
-            }
-        ],
-        "wiki" : "https://en.wikipedia.org/wiki/Porsche_911_GT3"
-    }]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
