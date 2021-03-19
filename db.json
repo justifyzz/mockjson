@@ -1,31 +1,11 @@
 {
   "posts": [
    [
-  {
-    "id": 1,
-    "email": "justifyzz@gmail.com",
-    "password": "Qwerty12345!"
-  },
-  {
-    "id": 2,
-    "email": "di4sbr0@gmail.com",
-    "password": "Qwerty12345!"
-  },
-  {
-    "id": 3,
-    "email": "trenzz@gmail.com",
-    "password": "Qwerty12345!"
-  },
-  {
-    "id": 4,
-    "email": "100tg@mail.ru",
-    "password": "Qwerty12345!"
-  },
-  {
-    "id": 5,
-    "email": "w33@gmail.com",
-    "password": "Qwerty12345!"
-  }
+  {"id":1, "email":"somebody@gmail.com","password":"Qwerty123!"},
+{"id":2, "email":"AnnaGirl@gmail.com","password":"Qwerty123!"},
+{"id":3, "email":"MarkWallberg@gmail.com","password":"Qwerty123!"},
+{"id":4, "email":"MarioGame@mail.ru","password":"Qwerty123!"},
+{"id":5, "email":"TomCruz@gmail.com","password":"Qwerty123!"}
 ]
   ],
   "comments": [
